@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwAOXHSQp3qZruJ0uHd8kP1Lz9OnNQ7SzsajTXOQ0sxvr5naOglKH65tqS6ktlA8yqmfNMF84uSGaDztH3dEWA==",
+  "success": true,
+  "projectFilePath": "D:\\others\\扩展\\WPF练习\\GenshinCharacterBrowserDemo\\GenshinCharacterBrowserDemo\\GenshinCharacterBrowserDemo.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
+    "D:\\Users\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "D:\\Users\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
